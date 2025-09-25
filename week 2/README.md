@@ -1,4 +1,4 @@
-# Titanik ile 2. Hafta Ödevi
+# Titanic Homework 2
 
 Bu ödevde veri keşfi (EDA) ve Pandas kullanımı üzerine çalıştım.  
 Öğrendiklerim:
