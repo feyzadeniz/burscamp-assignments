@@ -1,4 +1,4 @@
-# Titanic ile Görselleştirme Homework
+# Titanic Homework 3
 
 Bu ödevde Titanic veri setini görselleştirme odaklı çalıştım.  
 Öğrendiklerim:
